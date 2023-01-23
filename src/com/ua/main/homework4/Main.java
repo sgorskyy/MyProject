@@ -2,7 +2,7 @@ package com.ua.main.homework4;
 
 public class Main {
     public static void main(String[] args) {
-        String TestString = "This is the string for TEST!";
+        String TestString = "This is the string for TEST !";
 
         System.out.println("Original string: " + TestString);
         System.out.println("Uppercase string: " + TestString.toUpperCase());
