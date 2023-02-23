@@ -12,7 +12,7 @@ public class DemoInitChildChild extends DemoInitChild{
         initNumber ++;
     }
 
-    public DemoInitChildChild(){
+    public DemoInitChildChild() {
         System.out.println("Block #" + initNumber + "\t - Child Child constructor");
         initNumber ++;
     }

@@ -3,7 +3,7 @@ package com.ua.main.hw_lesson_12;
 public class DemoInit {
     protected static int initNumber = 1;
 
-    static{
+    static {
         System.out.println("Block #" + initNumber + "\t - Parent class static initialization");
         initNumber ++;
     }

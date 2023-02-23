@@ -11,7 +11,7 @@ public class DemoInitChild extends DemoInit{
         initNumber ++;
     }
 
-    public DemoInitChild(){
+    public DemoInitChild() {
         System.out.println("Block #" + initNumber + "\t - Child constructor");
         initNumber ++;
     }
